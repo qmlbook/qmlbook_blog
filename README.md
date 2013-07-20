@@ -1,4 +1,4 @@
 qmlbook
 =======
 
-The source code for the upcoming qml book
+The source code for the blog which accompanies the qmlbook
